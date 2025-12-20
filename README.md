@@ -3,13 +3,10 @@
 🎓 **Graduate Researcher**  
 📈 **Systematic Trading Research · Financial Time Series Analysis**
 
-I work on **systematic trading research** using financial time series data,  
-focusing on the **design, evaluation, and stress-testing of rule-based trading systems**.
+I work on **systematic trading research** using financial time series data, focusing on the **design, evaluation, and stress-testing of rule-based trading systems**.
 
-My research emphasizes **robust backtesting**, **risk-aware position sizing**,  
-and **reproducible empirical analysis**.  
-Machine learning and optimization methods are applied **selectively**,  
-only where they provide clear and measurable value.
+My research emphasizes **robust backtesting**, **risk-aware position sizing**, and **reproducible empirical analysis**.  
+Machine learning and optimization methods are applied **selectively**, only where they provide clear and measurable value.
 
 ---
 

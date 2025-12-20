@@ -36,12 +36,23 @@ Machine learning and optimization methods are applied **selectively**, only wher
 
 ---
 
-## 🛠 Tools
+## 🛠 Technical Skills
 
-**Core Stack**
-- Python (NumPy, Pandas, Statsmodels)
+**Core Language**
+- Python (research pipelines, backtesting, data analysis)
+
+**Data & Modeling**
+- Time series analysis and systematic trading research
+- Nonlinear modeling for financial data (selective use)
+
+**Libraries Used in Practice**
+- NumPy, Pandas, Statsmodels
 - Scikit-learn
-- Git / Linux / Jupyter
+- PyTorch (used selectively in specific experiments)
+
+**Infrastructure & Tooling**
+- Git / GitHub
+- Docker (experiment reproducibility)
 
 ---
 

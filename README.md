@@ -38,20 +38,20 @@ My research emphasizes **robust backtesting**, **risk-aware position sizing**, a
 ## 🛠 Technical Skills
 
 **Core Language**
-- Python (research pipelines, backtesting, data analysis)
+- Python
 
 **Data & Modeling**
 - Time series analysis and systematic trading research
-- Nonlinear modeling for financial data (selective use)
+- Nonlinear modeling for financial data
 
 **Libraries Used in Practice**
 - NumPy, Pandas, Statsmodels
 - Scikit-learn
-- PyTorch (used selectively in specific experiments)
+- PyTorch
 
 **Infrastructure & Tooling**
 - Git / GitHub
-- Docker (experiment reproducibility)
+- Docker
 
 ---
 

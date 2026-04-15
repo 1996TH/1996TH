@@ -1,76 +1,15 @@
-# 👋 Hi, I'm Ted Lee
+# Ted Lee
 
-🎓 **Graduate Researcher**  
-📈 **Systematic Trading Research · Financial Time Series Analysis**
+**M.S. Researcher** · PKNU [BRAIN-XAI Lab](https://sites.google.com/view/brainxai)
 
-I work on **systematic trading research** using financial time series data, focusing on the **design, evaluation, and stress-testing of rule-based trading systems**.
+Quantitative research on financial time series — integrating AI, quantum computing, and complex systems.
 
-My research emphasizes **robust backtesting**, **risk-aware position sizing**, and **reproducible empirical analysis**.  
+### Now
 
----
+- 🔬 Quantum-classical approaches to portfolio optimization
+- 📊 Market regime analysis through the lens of complex systems
+- 📈 Systematic trading research with walk-forward validation
 
-## 🔍 Research Focus
+### Tech
 
-- Regime-aware analysis of financial time series (trend / range)
-- Robust evaluation of trading strategies under non-stationarity
-- Parameter- and structure-level optimization of trading systems
-- Empirical comparison between rule-based signals and feature-based models
-- Identifying and mitigating backtest bias in systematic strategies
-
----
-
-## 🧠 What I Work On
-
-- **Research replication as experimentation**  
-  Reproducing and extending existing studies to validate assumptions and limitations
-
-- **Systematic trading system design**  
-  Integrating entry/exit rules, volatility-adjusted stops, and position sizing into coherent systems
-
-- **Optimization under realistic constraints**  
-  Applying evolutionary optimization methods to explore strategy robustness, not peak performance
-
-- **Experimental design for fair comparison**  
-  Building pipelines that separate *model skill* from *data leakage and overfitting*
-
----
-
-## 🛠 Technical Skills
-
-**Core Language**
-- Python
-
-**Data & Modeling**
-- Time series analysis and systematic trading research
-- Nonlinear modeling for financial data
-
-**Libraries Used in Practice**
-- NumPy, Pandas, Statsmodels
-- Scikit-learn
-- PyTorch
-
-**Infrastructure & Tooling**
-- Git / GitHub
-- Docker
-
----
-
-## 📊 Research Principles
-
-- Walk-forward validation over static backtests
-- Identical data, costs, and rules for all model comparisons
-- Preference for models that are **interpretable and diagnosable**, not just performant
-- Clear documentation of both **successful and failed experiments**
-
----
-
-## 📚 Academic Background
-
-- **M.S. in Data Engineering**
-- **B.S. in Applied Mathematics & Computer Engineering**
-
----
-
-## 📫 Contact
-
-- 📧 Email: leetaehoon96@gmail.com
+`Python` · `PyTorch` · `Qiskit` · `PennyLane` · `Docker` · `Git`
